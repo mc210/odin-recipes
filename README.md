@@ -1,1 +1,2 @@
 # odin-recipes
+Learning how to build a website with links, images, unordered and ordered lists, and git commits. Borrowing what I can from allrecipes.com to make a small recipe site with a couple of recipes
